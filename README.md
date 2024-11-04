@@ -1,6 +1,6 @@
 # Stock-Movement-Prediction  
-Developed a stock market movement prediction model using the k-Nearest Neighbors (kNN) algorithm. The project involved data preprocessing, feature selection,
-and implementing kNN to classify stock price movements based on historical data. Focused on achieving high accuracy and optimizing model performance through parameter tuning.
+Developed a stock market movement prediction model using the k-Nearest Neighbors (kNN) & XGBoost Classifier algorithm. The project involved data preprocessing, feature selection,
+and implementing 2 models to classify stock price movements based on historical data. Focused on achieving high accuracy and optimizing model performance through parameter tuning.
 
 **Improvement:**  
   
